@@ -6,8 +6,7 @@
 
 ---
 
-# 💫 About Me.
-
+# 💫 A
 ✨ Every developer tells a story... and I'm building mine with AI.  
 🚀 Passionate about AI/ML, LLMs, Multi-Agent Systems & Modern Web Apps  
 🎓 Computer Science Student at Quantum University  
