@@ -502,8 +502,6 @@ Advanced **prompt engineering** for nuanced, context-aware film recommendations 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anmoldhiman17&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="95%"/>
-
 </div>
 
 <div align="center">
