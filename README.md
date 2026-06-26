@@ -28,8 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-dhimannn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoldhimandm@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17)
-[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-_OOccEqvVfkKxcyu-XO2c0gtBEtahIl/view?usp=sharing)
 </div>
 
 <div align="center">
