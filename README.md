@@ -18,23 +18,6 @@
 
 <br/><br/>
 
-<!-- Premium CTA Buttons -->
-<a href="https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-00D4FF?style=for-the-badge&logoColor=black&labelColor=00D4FF&color=0d1117" height="35"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/anmol-dhimannn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="35"/>
-</a>
-&nbsp;
-<a href="https://github.com/anmoldhiman17" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-</a>
-&nbsp;
-<a href="mailto:anmoldhiman17@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-
 <br/><br/>
 
 <!-- Divider -->
