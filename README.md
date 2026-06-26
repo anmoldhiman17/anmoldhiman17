@@ -515,7 +515,11 @@ Advanced **prompt engineering** for nuanced, context-aware film recommendations 
 </div>
 
 <p align="right"><a href="#top">↑ back to top</a></p>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 <div align="center">
