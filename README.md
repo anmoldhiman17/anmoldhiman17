@@ -1,144 +1,376 @@
+<a name="top"></a>
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:7F00FF,70:E100FF,100:00C9FF&height=300&section=header&text=ANMOL%20DHIMAN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20AI%2FML%20Engineer%20%20•%20%20Generative%20AI%20Engineer%20%20•%20%20Multi-Agent%20AI%20Developer%20⚡&descAlignY=54&descSize=17&stroke=B967FF&strokeWidth=2" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=260&section=header&text=Anmol%20Dhiman&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20LLM%20Builder%20%E2%80%A2%20Multi-Agent%20AI%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=B967FF&center=true&vCenter=true&width=720&height=60&lines=Building+Production-Ready+AI+Systems;Generative+AI+%7C+LLMs+%7C+Multi-Agent+Architectures;LangChain+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+Python;Turning+Research+Papers+into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2400&pause=700&color=B967FF&center=true&vCenter=true&multiline=false&width=800&height=65&lines=🚀+Engineering+Production-Grade+AI+Systems;🤖+Multi-Agent+Pipelines+%7C+LLMs+%7C+RAG+%7C+LCEL;🧠+LangChain+%7C+FastAPI+%7C+Streamlit+%7C+Python;🔬+From+Research+Paper+→+Deployed+Product;⚡+Building+AI+That+Works+at+3AM" alt="Typing SVG" />
 </a>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3500&pause=2000&color=00C9FF&center=true&vCenter=true&width=600&height=30&lines=📍+India+%7C+🎓+B.Tech+CSE+%40+Quantum+University+%7C+🌐+Open+to+Work" alt="location" />
+</div>
 
 <br/>
 
-<p>
-  <a href="https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anmol-dhimannn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-E100FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-  <a href="https://github.com/anmoldhiman17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=anmoldhiman17&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/anmoldhiman17?label=FOLLOWERS&style=for-the-badge&logo=github&color=00C9FF&logoColor=white" alt="Followers"/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7F00FF?style=for-the-badge&logoColor=white)](https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-dhimannn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoldhimandm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17)
+[![Resume](https://img.shields.io/badge/Resume-00C9FF?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<div align="center">
 
-<h2 align="center">🧠 About Me</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=anmoldhiman17&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/anmoldhiman17?label=FOLLOWERS&style=for-the-badge&logo=github&color=00C9FF&logoColor=white)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-success?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%2FML_Engineer-B967FF?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+</div>
+
+---
+
+## 📑 Navigation
+
+<div align="center">
+
+[`🧠 About`](#-about-me) &nbsp;•&nbsp; [`⚡ Quick Stats`](#quick-stats) &nbsp;•&nbsp; [`🚀 Currently Building`](#-currently-building) &nbsp;•&nbsp; [`🛠️ Tech Stack`](#️-tech-arsenal) &nbsp;•&nbsp; [`🎯 Strengths`](#-core-strengths) &nbsp;•&nbsp; [`🧪 AI Expertise`](#-ai-expertise) &nbsp;•&nbsp; [`💼 Experience`](#-professional-experience) &nbsp;•&nbsp; [`📈 Impact`](#-impact-in-numbers) &nbsp;•&nbsp; [`💎 Projects`](#-featured-projects) &nbsp;•&nbsp; [`📊 Analytics`](#-github-analytics) &nbsp;•&nbsp; [`🎓 Education`](#-education) &nbsp;•&nbsp; [`🏆 Achievements`](#-achievements--certifications) &nbsp;•&nbsp; [`⚙️ Workflow`](#️-dev-workflow) &nbsp;•&nbsp; [`📡 Learning`](#-currently-learning) &nbsp;•&nbsp; [`🤝 Connect`](#-lets-connect)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🧠 About Me
 
 <table align="center" width="100%">
-<tr><td>
+<tr>
+<td>
 
-I'm an AI Engineer who builds systems, not just demos. While most people stop at a notebook that prints a clever output once, I'm interested in what happens when that idea has to survive real traffic, real users, and real edge cases — wrapped in an API, deployed, monitored, and still working at 3 AM.
+> 🔥 **I build AI systems, not just demos.**
 
-My world revolves around **Large Language Models** and the architecture around them — retrieval pipelines that actually retrieve the right thing, agents that reason instead of hallucinate confidently, and multi-agent systems where each component has a job and does it well. I care less about chasing the newest model release and more about *composing* models, tools, and memory into something that solves an actual problem.
+I'm an AI Engineer obsessed with what happens *after* the impressive notebook output — when an idea has to survive **real traffic**, **real users**, and **real edge cases** — wrapped in an API, deployed, monitored, and still running clean at 3 AM.
 
-Currently pursuing my **B.Tech in Computer Science Engineering** at Quantum University, while spending my nights shipping side projects, contributing to open source, and occasionally publishing research — because the fastest way to learn AI engineering is to keep building things that break, then fixing them.
+My world is **Large Language Models** and the architecture around them:
+- 🕸️ **Multi-agent pipelines** where Search, Reader, Writer, and Critic agents each own exactly one job
+- 📚 **Retrieval systems** tuned to fetch the *right* thing — not just *something*
+- 🧠 **Chatbots with real memory** — not amnesiacs that forget you two messages in
+
+I started with classical ML — `GridSearchCV`, validation curves, overfitting budgets — which is exactly why I care about **evaluation and robustness** in LLM systems today. A flashy demo that breaks on imperfect input isn't a product.
+
+Pursuing **B.Tech CSE** at Quantum University, Roorkee — while interning, shipping projects, and publishing research — because the fastest way to learn AI engineering is to keep building things that break, then fixing them in public.
+
+<br/>
 
 > *"I don't just want to use AI — I want to architect the systems that make AI useful."*
 
-</td></tr>
+</td>
+</tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<br/>
 
-<h2 align="center">🚀 What I'm Currently Building</h2>
+<a name="quick-stats"></a>
+<div align="center">
+
+![Internships](https://img.shields.io/badge/Internships-3-7F00FF?style=for-the-badge&logo=briefcase&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects_Shipped-6%2B-9B30FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Research](https://img.shields.io/badge/Research_Papers-1-B854FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Certs](https://img.shields.io/badge/Certifications-4%2B-C968FF?style=for-the-badge&logo=medal&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.14%2F10-00C9FF?style=for-the-badge&logo=mortarboard&logoColor=white)
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🚀 Currently Building
 
 <div align="center">
 
-| 🔭 Focus Area | ⚡ Status |
+| 🔭 Focus Area | 🔋 Energy | ⚡ Status |
+|:---|:---:|:---|
+| 🧬 **Generative AI** apps with multi-model orchestration | `████████░░` 80% | 🟢 Actively shipping |
+| 🤖 **Autonomous Agents** — plan, reason, retrieve, self-correct | `███████░░░` 70% | 🟡 In active development |
+| 🧠 **LLM-powered products** with production reliability | `█████████░` 90% | 🟢 Actively shipping |
+| ⚙️ **FastAPI / Streamlit** backends serving AI at scale | `████████░░` 80% | 🟢 Actively shipping |
+| 📚 **RAG pipelines** with hybrid retrieval & re-ranking | `███████░░░` 70% | 🔵 Refining |
+| 🧪 **Model fine-tuning & evaluation** workflows | `█████░░░░░` 50% | 🟡 Experimenting |
+| 🌐 **Open Source** contributions to AI tooling | `██████░░░░` 60% | 🔵 Ongoing |
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-7F00FF?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### 🤖 Generative AI & LLM Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LCEL](https://img.shields.io/badge/LCEL-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7F00FF?style=for-the-badge&logo=robotframework&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-9B30FF?style=for-the-badge&logo=robotframework&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-E100FF?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 Machine Learning & NLP
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7F00FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Text Classification](https://img.shields.io/badge/Text_Classification-00C9FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Cosine Similarity](https://img.shields.io/badge/Cosine_Similarity-00C9FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00C9FF?style=for-the-badge&logo=swagger&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Vector Stores
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7F00FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-9B30FF?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ☁️ DevOps, Cloud & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🎯 Core Strengths
+
+<div align="center">
+
+![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-7F00FF?style=for-the-badge)
+![Research Mindset](https://img.shields.io/badge/🔬_Research_Mindset-9B30FF?style=for-the-badge)
+![Fast Learner](https://img.shields.io/badge/⚡_Fast_Learner-B854FF?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/🤝_Team_Collaboration-C968FF?style=for-the-badge)
+![Communication](https://img.shields.io/badge/🎙️_Communication-00C9FF?style=for-the-badge)
+![Ownership](https://img.shields.io/badge/🏗️_Ownership-33D6FF?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Strength | What it looks like IRL |
 |:---|:---|
-| 🧬 **Generative AI** applications with multi-model orchestration | Actively shipping |
-| 🤖 **Autonomous Agents** that plan, reason & self-correct | In active development |
-| 🧠 **LLM-powered products** with production-grade reliability | Actively shipping |
-| ⚙️ **FastAPI** backends serving AI at scale | Actively shipping |
-| 📚 **RAG pipelines** with hybrid retrieval & re-ranking | Refining |
-| 🌐 **Open Source** contributions to the AI tooling ecosystem | Ongoing |
+| 🔬 **Research-first mindset** | Every project starts with reading the paper or docs — not cloning the tutorial |
+| 🧪 **Evaluation discipline** | I measure before I claim — accuracy deltas, latency budgets, validation curves. Not vibes. |
+| 🤝 **Cross-functional collaboration** | Comfortable across ML, backend, and frontend to ship a complete product end-to-end |
+| 🎤 **Communication** | Organized and led technical events — explaining complex ideas clearly is a habit |
+| 🏗️ **Ownership** | I'd rather ship something smaller that actually works than something bigger that's a demo forever |
+| ⚡ **Speed + Quality** | Bias for shipping early, iterating fast, and not letting perfect block good |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<p align="right"><a href="#top">↑ back to top</a></p>
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🧪 AI Expertise
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-**Generative AI & LLMs**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI_Agents-7F00FF?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-E100FF?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-**Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-**Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-00C9FF?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-7F00FF?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-**Deployment & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+| Domain | Skill Bar | Level |
+|:---|:---|:---:|
+| 🤖 **LLM Applications** | `█████████░` | 92% |
+| ✍️ **Prompt Engineering** | `█████████░` | 90% |
+| 📚 **RAG Systems** | `████████░░` | 88% |
+| 🔗 **LangChain / LCEL** | `████████░░` | 88% |
+| 🧮 **Classical ML & Model Tuning** | `████████░░` | 89% |
+| 🕸️ **Multi-Agent Architectures** | `████████░░` | 86% |
+| ☁️ **AI Deployment** | `████████░░` | 87% |
+| 📝 **NLP & Text Classification** | `████████░░` | 86% |
+| 🧩 **Embeddings & Vector Search** | `████████░░` | 84% |
+| 🗄️ **Vector Databases** | `████████░░` | 82% |
+| ⚙️ **Workflow Automation** | `████████░░` | 80% |
+| 🎛️ **Model Fine-Tuning** | `███████░░░` | 75% |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<p align="right"><a href="#top">↑ back to top</a></p>
 
-<h2 align="center">🧪 AI Expertise</h2>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🟣 AI/ML Intern — Global Next Consulting India Pvt Ltd</b> &nbsp; <code>July 2025 – Sept 2025</code></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- 📈 Built and optimized supervised ML models, boosting prediction accuracy from **74% → 86%** (a **+12pp** lift).
+- 🎯 Applied **K-Fold cross-validation** + **GridSearchCV** hyperparameter tuning — improved validation accuracy **+12%** and cut over-fitting by **18%**.
+- 🔍 Conducted full-cycle EDA and feature transformation with Pandas & NumPy, strengthening model stability and preprocessing efficiency.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🟣 Python Developer Intern — The Skybrisk (Remote)</b> &nbsp; <code>Oct 2025 – Mar 2026</code></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00C9FF?style=flat-square&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+- ⚡ Automated backend workflows in Python, cutting manual processing time by **35%** and boosting execution efficiency by **25%**.
+- 🔌 Integrated REST APIs for dynamic data exchange across services, lowering response latency by **22%** and strengthening system reliability.
+- 🌱 Established Git-based version control workflows, reducing merge conflicts by **30%** and streamlining collaborative development.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🟣 Full Stack Developer Intern — Anonic Technologies Pvt Ltd</b> &nbsp; <code>July 2024 – Aug 2024</code></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- 🖥️ Developed responsive web applications integrating frontend UIs with backend APIs, accelerating page load performance by **20%**.
+- 🗃️ Structured and enhanced MySQL queries for efficient data retrieval and optimized application performance.
+- 🔐 Built authentication logic and dynamic rendering for a seamless, secure user experience.
+
+</details>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 📈 Impact in Numbers
 
 <div align="center">
 
-| Domain | Proficiency |
-|:---|:---|
-| 🤖 **LLM Applications** | ![](https://img.shields.io/badge/-92%25-7F00FF?style=flat-square) |
-| ✍️ **Prompt Engineering** | ![](https://img.shields.io/badge/-90%25-8A2BE2?style=flat-square) |
-| 📚 **RAG Systems** | ![](https://img.shields.io/badge/-88%25-9B30FF?style=flat-square) |
-| 🕸️ **Multi-Agent Architectures** | ![](https://img.shields.io/badge/-85%25-A93FFF?style=flat-square) |
-| ☁️ **AI Deployment** | ![](https://img.shields.io/badge/-87%25-B854FF?style=flat-square) |
-| 🎛️ **Fine-Tuning** | ![](https://img.shields.io/badge/-75%25-C968FF?style=flat-square) |
-| 🧩 **Embeddings** | ![](https://img.shields.io/badge/-85%25-DA7DFF?style=flat-square) |
-| 🗄️ **Vector Databases** | ![](https://img.shields.io/badge/-83%25-E891FF?style=flat-square) |
-| ⚙️ **Workflow Automation** | ![](https://img.shields.io/badge/-80%25-00C9FF?style=flat-square) |
+> *Every bullet on my résumé has a number. Here they are, all in one place.*
+
+| 📊 Metric | 🔢 Result | 📍 Where |
+|:---|:---:|:---|
+| 🎯 Prediction accuracy improvement | **74% → 86%** | AI/ML Internship |
+| 🧮 Validation accuracy gain (GridSearchCV) | **+12%** | AI/ML Internship |
+| 📉 Overfitting reduction | **−18%** | AI/ML Internship |
+| ⚡ Manual processing time cut | **−35%** | Python Developer Internship |
+| 🚀 Execution efficiency gain | **+25%** | Python Developer Internship |
+| 🔌 API response latency reduction | **−22%** | Python Developer Internship |
+| 🌱 Merge conflict reduction | **−30%** | Python Developer Internship |
+| 🖥️ Page load performance boost | **+20%** | Full Stack Internship |
+| 📧 Spam classifier accuracy | **97%** | Spam Email Classification Project |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<div align="center">
 
-<h2 align="center">💎 Featured Projects</h2>
+![Data-Backed](https://img.shields.io/badge/Data--Backed-Always-7F00FF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Hype-Driven](https://img.shields.io/badge/Hype--Driven-Never-00C9FF?style=for-the-badge&logo=ghost&logoColor=white)
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 💎 Featured Projects
 
 <table align="center" width="100%">
 
@@ -146,23 +378,27 @@ Currently pursuing my **B.Tech in Computer Science Engineering** at Quantum Univ
 <td width="50%" valign="top">
 
 ### 🧬 ResearchMind
-Production-grade **Multi-Agent Research Platform** that autonomously plans, retrieves, and synthesizes research across the web into structured reports.
+> **Multi-Agent AI Research System**
 
-`FastAPI` `LangChain` `Mistral AI` `React` `TypeScript` `Tailwind` `Tavily` `Vercel`
+Production-grade pipeline built with **LCEL** orchestrating four specialized agents — `Search`, `Reader`, `Writer`, `Critic` — via shared state, automating end-to-end research workflows from topic ingestion to a scored, structured report.
 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `Python` · `LangChain` · `LCEL` · `LLMs` · `Streamlit` · `Tavily`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=streamlit&logoColor=white)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 NeuralDocs AI
-A **RAG-powered PDF Assistant** that lets you have grounded, citation-aware conversations with dense, lengthy documents.
+### 🎭 Orion AI
+> **Multi-Personality LLM Chatbot**
 
-`LangChain` `ChromaDB` `Mistral` `Streamlit`
+Powered by **Mistral + LangChain** with 5 distinct AI personas, unique prompt-engineering templates per mode, real-time streaming, full session memory, and one-click persona switching with zero context loss. Live on Hugging Face Spaces.
 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `Python` · `LangChain` · `Mistral AI` · `Streamlit` · `HuggingFace Spaces`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-E100FF?style=for-the-badge&logo=huggingface&logoColor=black)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 </tr>
@@ -170,24 +406,28 @@ A **RAG-powered PDF Assistant** that lets you have grounded, citation-aware conv
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 Orion AI
-A **Multi-Personality AI Chatbot** with persistent memory, capable of switching between distinct conversational personas mid-session.
+### 📄 NeuralDocs AI
+> **RAG-Powered PDF Assistant**
 
-`LangChain` `Mistral` `Memory` `Streamlit`
+Holds grounded, citation-aware conversations with dense, lengthy documents. Built on a **vector retrieval pipeline** tuned for accuracy over raw recall — knows *where* it found what it says.
 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-E100FF?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `LangChain` · `ChromaDB` · `Mistral` · `Streamlit`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=streamlit&logoColor=white)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏙️ AI City Assistant
-A location-aware assistant that fuses **live weather + maps data** with LLM reasoning to answer real-world, real-time city queries.
+> **Location-Aware Conversational Agent**
 
-`Mistral` `Weather API` `Maps` `LangChain`
+Fuses **live weather + maps data** with LLM reasoning to answer real-time, real-world city queries — a demo of tool-augmented AI that does something GPT alone can't.
 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00C9FF?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `Mistral` · `Weather API` · `Maps` · `LangChain`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-00C9FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 </tr>
@@ -195,110 +435,266 @@ A location-aware assistant that fuses **live weather + maps data** with LLM reas
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 MovieMind AI
-An **AI Movie Intelligence** engine using advanced prompt engineering to deliver nuanced recommendations and deep-dive analysis.
+### 📧 Spam Email Classifier
+> **97% Accuracy Text Classification System**
 
-`Prompt Engineering` `Mistral`
+Supervised **NLP pipeline** using TF-IDF + Logistic Regression benchmarked against a **TensorFlow Dense Neural Network**. Full preprocessing chain — tokenization, stop-word removal, normalization.
 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=themoviedatabase&logoColor=white"/></a>
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Stack:** `Scikit-learn` · `TensorFlow` · `NLP` · `TF-IDF`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=jupyter&logoColor=white)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More on the way
-New agentic systems, fine-tuning experiments, and open-source tooling are always in progress — check the pinned repos for the latest drops.
+### 🎬 MovieMind AI
+> **AI Movie Intelligence Engine**
 
-<a href="https://github.com/anmoldhiman17?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repos-00C9FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+Advanced **prompt engineering** for nuanced, context-aware film recommendations and deep-dive analysis — more than a chatbot, less than magic.
+
+**Stack:** `Prompt Engineering` · `Mistral`
+
+![Live Demo](https://img.shields.io/badge/Live_Demo-E100FF?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
 </tr>
 
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmoldhiman17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=00C9FF&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldhiman17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&text_color=ffffff" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=anmoldhiman17&theme=tokyonight&hide_border=true&background=0D1117&ring=B967FF&fire=00C9FF&currStreakLabel=ffffff" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoldhiman17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=B967FF&point=ffffff" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anmoldhiman17&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+[![All Repos](https://img.shields.io/badge/🔍_Explore_All_Repositories-00C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<p align="right"><a href="#top">↑ back to top</a></p>
 
-<h2 align="center">🏆 Achievements</h2>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Category | Highlight |
-|:---|:---|
-| 📜 **Research Publication** | Published ML Research Paper — IJPREMS |
-| 💼 **AI/ML Internship** | Global Next Consulting India Pvt Ltd |
-| 🐍 **Python Developer Internship** | Skybrisk |
-| 🌐 **Full Stack Developer Internship** | Anonic Technologies |
-| 🧠 **AI Projects Shipped** | 5+ production-style Generative AI applications |
-| 🌱 **Open Source** | Active contributor across the AI tooling ecosystem |
+<img src="https://github-readme-stats.vercel.app/api?username=anmoldhiman17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=00C9FF&text_color=ffffff&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldhiman17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B967FF&text_color=ffffff&langs_count=8" width="49%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<div align="center">
 
-<h2 align="center">⚙️ Development Workflow</h2>
+<img src="https://streak-stats.demolab.com/?user=anmoldhiman17&theme=tokyonight&hide_border=true&background=0D1117&ring=B967FF&fire=00C9FF&currStreakLabel=ffffff&sideLabels=B967FF&dates=00C9FF" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmoldhiman17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=B967FF&point=ffffff&area=true&area_color=7F00FF" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anmoldhiman17&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/anmoldhiman17/anmoldhiman17/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation — setup instructions in the notes section below"/>
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🎓 Education
+
+<div align="center">
+
+<table width="80%">
+<tr>
+<td align="center">
+
+<h3>🏛️ Bachelor of Technology — Computer Science Engineering</h3>
+
+**Quantum University, Roorkee**
+
+<br/>
+
+![Duration](https://img.shields.io/badge/2023_–_2027-7F00FF?style=for-the-badge&logo=calendar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA_7.14%2F10-00C9FF?style=for-the-badge&logo=mortarboard&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ongoing-B967FF?style=for-the-badge&logo=statuspage&logoColor=white)
+
+<br/>
+
+Core coursework in **Data Structures & Algorithms**, **Machine Learning**, **Deep Learning**, and **Database Systems** — not left in a textbook, but applied immediately through 3 internships, 6 shipped projects, and a published research paper.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🏷️ Category | 📋 Highlight | 📅 Year |
+|:---|:---|:---:|
+| 📜 **Research Publication** | Published ML paper on predictive analysis & model optimization — **IJPREMS** | 2025 |
+| ✍️ **Prompt Engineering** | 9-hour advanced LLM optimization & AI automation course — **Udemy** | 2026 |
+| 🤖 **Generative AI** | Hands-on GenAI & LLM fundamentals workshop — **GrowthSchool** | 2026 |
+| 🧠 **AI Systems Workshop** | Applied AI assistant systems for real-world dev — **UNLOX** | 2026 |
+| 🎤 **Technical Event Lead** | Organized *Code Cracker* & *Crack the Quiz* — design, eval, coordination | 2025 |
+| 🎓 **B.Tech CSE** | Quantum University, Roorkee — **7.14 / 10 CGPA** | 2023–27 |
+
+</div>
+
+<div align="center">
+
+![IJPREMS](https://img.shields.io/badge/IJPREMS-Published-7F00FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Certified-9B30FF?style=for-the-badge&logo=udemy&logoColor=white)
+![GrowthSchool](https://img.shields.io/badge/GrowthSchool-Certified-B854FF?style=for-the-badge&logo=googlechrome&logoColor=white)
+![UNLOX](https://img.shields.io/badge/UNLOX-Workshop-C968FF?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## ⚙️ Dev Workflow
 
 <div align="center">
 
 ```mermaid
-graph TD
-    A["💡 Idea"] --> B["🔍 Research"]
-    B --> C["🧠 LLM"]
-    C --> D["🤖 Agent"]
-    D --> E["🚀 Deployment"]
+graph LR
+    A["💡 Idea"] --> B["🔍 Research\n& Papers"]
+    B --> C["🧹 Data\n& Preprocessing"]
+    C --> D["🧠 LLM /\nModel"]
+    D --> E["🤖 Agent\nOrchestration"]
+    E --> F["🧪 Evaluation\n& Critic Layer"]
+    F --> G["🚀 Deploy"]
+    G --> H["📡 Monitor\n& Iterate"]
+    H -.->|feedback loop| B
 
     style A fill:#7F00FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style B fill:#9B30FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style C fill:#B854FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style D fill:#C968FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style E fill:#00C9FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style B fill:#8E1FFF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#9B30FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#A93FFF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#B854FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style F fill:#C968FF,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style G fill:#00C9FF,stroke:#0D1117,stroke-width:2px,color:#0D1117
+    style H fill:#33D6FF,stroke:#0D1117,stroke-width:2px,color:#0D1117
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<p align="right"><a href="#top">↑ back to top</a></p>
 
-<h2 align="center">📡 Currently Learning</h2>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 📡 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MLOps-7F00FF?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced_Agentic_AI-00C9FF?style=for-the-badge&logo=openai&logoColor=white"/>
+![MLOps](https://img.shields.io/badge/MLOps-7F00FF?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Advanced Agentic AI](https://img.shields.io/badge/Advanced_Agentic_AI-00C9FF?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/LLM_Evaluation-B967FF?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=4&section=header" width="100%"/>
+<p align="right"><a href="#top">↑ back to top</a></p>
 
-<h2 align="center">🤝 Let's Connect</h2>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🗣️ Languages
 
 <div align="center">
 
-<a href="https://linkedin.com/in/anmol-dhimannn"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30"/></a>
-<a href="https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site"><img src="https://img.shields.io/badge/View_Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30"/></a>
+| Language | Proficiency |
+|:---|:---|
+| 🇬🇧 **English** | ![Professional](https://img.shields.io/badge/-Professional-7F00FF?style=flat-square) |
+| 🇮🇳 **Hindi** | ![Native](https://img.shields.io/badge/-Native_Speaker-00C9FF?style=flat-square) |
+
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 📬 Open to Collaborate If You're...
+
+<div align="center">
+
+<table width="80%">
+<tr><td>
+
+- 🏢 Hiring for an **AI/ML Engineer**, **GenAI Engineer**, **LLM Developer**, or **Agent Architect** role
+- 🤝 Looking for a collaborator on **open-source AI tooling** — especially LangChain, RAG, or eval frameworks
+- 🧪 Working on **RAG / multi-agent systems / LLM evaluation** and want a second pair of eyes
+- 🎤 Organizing a **hackathon, workshop, or technical event** and need a speaker, organizer, or judge
+- 💡 Just want to debate how to make AI systems **actually reliable** — not just impressive in a demo
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-dhimannn)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site)
 
 <br/>
 
-<a href="https://github.com/anmoldhiman17"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Send_an_Email-E100FF?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30"/></a>
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17)
+[![Email](https://img.shields.io/badge/anmoldhimandm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoldhimandm@gmail.com)
 
 </div>
 
@@ -306,7 +702,7 @@ graph TD
 
 <div align="center">
 
-### 💬 Dynamic Quote
+### 💬 Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
 
@@ -314,52 +710,46 @@ graph TD
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=160&section=footer&animation=fadeIn"/>
-
 <div align="center">
-
-**"Building AI systems that solve real-world problems."**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,40:E100FF,80:B967FF,100:7F00FF&height=180&section=footer&animation=fadeIn&text=Building%20AI%20That%20Actually%20Works.&fontSize=28&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
 
-<br/>
+---
 
 <details>
-<summary>💡 <b>Setup &amp; Customization Notes</b> (click to expand — remove this section once done)</summary>
+<summary>💡 <b>Setup Notes</b> (read before pushing — remove this section after)</summary>
 <br/>
 
-- **Email & Resume:** Replace `your.email@example.com` and the `#` Resume link with your real email and resume URL (Google Drive / PDF link works great).
-- **Project links:** Each project's "Live Demo" currently points to `#` and "View Code" points to your repositories tab. Swap in the exact repo / deployed URL for each project once available.
-- **Snake contribution animation:** To add the animated contribution snake, create a repo named exactly `anmoldhiman17` (your username) if you haven't already, then add this GitHub Action at `.github/workflows/snake.yml`:
+**Things to fill in before going live:**
 
-  ```yaml
-  name: snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch: {}
-    push:
-      branches: [ main ]
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: anmoldhiman17
-            outputs: dist/github-contribution-grid-snake.svg
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
+- **Resume button:** Replace `#` next to the Resume shield with your actual Google Drive / hosted PDF link.
+- **Project demo links:** Each project's "Live Demo" badge currently has no `href`. Wrap them as `[![Live Demo](badge_url)](your-demo-url)` once you have live URLs.
+- **Snake animation:** The SVG at the bottom of GitHub Analytics won't show until you add the GitHub Action. Create `.github/workflows/snake.yml` in your `anmoldhiman17` repo:
 
-  Then add this to wherever you'd like the snake to appear:
-  ```md
-  ![Snake animation](https://raw.githubusercontent.com/anmoldhiman17/anmoldhiman17/output/github-contribution-grid-snake.svg)
-  ```
-- **Reliability note:** The free public instances of `github-readme-stats`, `streak-stats`, and `github-profile-trophy` occasionally rate-limit or pause. If any card stops rendering, the most reliable fix is self-hosting your own instance on Vercel (one-click deploy button on each tool's GitHub repo) and swapping the domain in this file.
+```yaml
+name: snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: anmoldhiman17
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+- **Stats cards reliability:** `github-readme-stats`, `streak-stats`, and `github-profile-trophy` are free public Vercel instances and sometimes rate-limit or pause. If a card breaks, self-host your own copy on Vercel (one-click from each tool's GitHub repo) and swap the domain.
 
 </details>
