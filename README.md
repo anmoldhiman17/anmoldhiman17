@@ -51,3 +51,43 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a2e,100:0d1117&height=2&section=header" width="100%"/>
+╔══════════════════════════════════════════════════════════╗
+║ > INITIALIZING AGENT: ANMOL.AI ║
+║ > STATUS: BUILDING THE FUTURE... ║
+╚══════════════════════════════════════════════════════════╝
+
+</div>
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="AI Developer GIF"/>
+
+### `// about_me.py`
+
+```python
+class AnmolDhiman:
+    def __init__(self):
+        self.name        = "Anmol Dhiman"
+        self.role        = "AI/ML Engineer | LLM Builder | Agent Architect"
+        self.location    = "India 🇮🇳"
+        self.education   = "B.Tech CSE @ Quantum University"
+        self.status      = "Building AI systems that think, reason & act"
+        
+    def manifesto(self):
+        return """
+        I don't just write code — I architect intelligence.
+        
+        Every LLM pipeline I build is a step toward automating
+        the impossible. Every agent I design is a bridge between
+        human intent and machine execution.
+        
+        I operate at the frontier of Generative AI — where 
+        language models meet production systems, where research
+        meets reality, and where ideas become autonomous AI.
+        """
+    
+    def current_mission(self):
+        return [
+            "🔬 Engineering multi-agent systems that collaborate",
+            "⚡ Building RAG pipelines for real-world knowledge retrieval", 
+            "🚀 Deploying LLM apps that scale to production",
+            "📄 Publishing ML research that pushes boundaries"
+        ]
