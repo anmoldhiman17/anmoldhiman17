@@ -389,7 +389,7 @@ Production-grade pipeline built with **LCEL** orchestrating four specialized age
 
 **Stack:** `Python` · `LangChain` · `LCEL` · `LLMs` · `Streamlit` · `Tavily`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://multi-agent-research-platform-r4cg.vercel.app)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
@@ -402,7 +402,7 @@ Powered by **Mistral + LangChain** with 5 distinct AI personas, unique prompt-en
 
 **Stack:** `Python` · `LangChain` · `Mistral AI` · `Streamlit` · `HuggingFace Spaces`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-E100FF?style=for-the-badge&logo=huggingface&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/🤖_Launch_AI-E100FF?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Anmoldhiman17/orion-ai)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
@@ -418,7 +418,7 @@ Holds grounded, citation-aware conversations with dense, lengthy documents. Buil
 
 **Stack:** `LangChain` · `ChromaDB` · `Mistral` · `Streamlit`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/📄_Try_NeuralDocs-7F00FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Anmoldhiman17/neuraldocs-ai)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
@@ -431,7 +431,7 @@ Fuses **live weather + maps data** with LLM reasoning to answer real-time, real-
 
 **Stack:** `Mistral` · `Weather API` · `Maps` · `LangChain`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-00C9FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/🌍_Launch_City_AI-00C9FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Anmoldhiman17/city-agent-intelligence)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
@@ -447,7 +447,7 @@ Supervised **NLP pipeline** using TF-IDF + Logistic Regression benchmarked again
 
 **Stack:** `Scikit-learn` · `TensorFlow` · `NLP` · `TF-IDF`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-7F00FF?style=for-the-badge&logo=jupyter&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/📧_Try_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://modern-genai-spam-email-classifier.streamlit.app)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
@@ -460,7 +460,7 @@ Advanced **prompt engineering** for nuanced, context-aware film recommendations 
 
 **Stack:** `Prompt Engineering` · `Mistral`
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-E100FF?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/🎬_Launch_MovieMind-E100FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Anmoldhiman17/moviemind-ai)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17?tab=repositories)
 
 </td>
