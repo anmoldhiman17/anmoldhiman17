@@ -17,9 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=anmoldhiman17&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 
 <br/><br/>
-
-<br/><br/>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
