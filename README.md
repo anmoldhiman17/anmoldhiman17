@@ -510,11 +510,6 @@ Advanced **prompt engineering** for nuanced, context-aware film recommendations 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/anmoldhiman17/anmoldhiman17/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation — setup instructions in the notes section below"/>
-
-</div>
-
-<p align="right"><a href="#top">↑ back to top</a></p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -525,6 +520,10 @@ Advanced **prompt engineering** for nuanced, context-aware film recommendations 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3" width="100%"/>
 </div>
+</div>
+
+<p align="right"><a href="#top">↑ back to top</a></p>
+
 
 ## 🎓 Education
 
