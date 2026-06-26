@@ -1,97 +1,496 @@
-<div align="center">
+You are one of the world's best GitHub Profile README designers.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Anmol%20Dhiman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Python%20Developer%20|%20LLM%20Builder&descAlignY=58"/>
+Your task is NOT to create a normal README.
 
-</div>
+Your task is to create a GitHub profile README that feels like the portfolio website of a senior AI Engineer.
 
----
+The README should look futuristic, premium, modern, elegant, highly animated (GitHub-compatible), visually attractive, recruiter-friendly and unforgettable.
 
-# 💫 A
-✨ Every developer tells a story... and I'm building mine with AI.  
-🚀 Passionate about AI/ML, LLMs, Multi-Agent Systems & Modern Web Apps  
-🎓 Computer Science Student at Quantum University  
-🧠 Exploring LangChain, FastAPI, RAG & Autonomous AI Systems  
-⚡ Building futuristic AI-powered products  
+━━━━━━━━━━━━━━━━━━━━━━
 
----
+ABOUT ME
 
-# 🛠 Tech Stack
+Name:
+Anmol Dhiman
 
-<div align="center">
+Role:
+AI/ML Engineer | Generative AI Engineer | LLM Builder | Multi-Agent AI Developer
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-111827?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+Location:
+India
 
-</div>
+Current Education:
+B.Tech Computer Science Engineering
+Quantum University
 
----
+Portfolio:
+https://019bd04c-c745-7394-8d8a-c56f1e94c06a.arena.site
 
-# 🚀 Featured Projects
+Github:
+https://github.com/anmoldhiman17
 
-### 🔹 Multi-Agent Research Platform
-AI-powered autonomous research platform using:
-- FastAPI
-- Tavily Search
-- Multi-Agent Workflow
-- Mistral AI
-- React + Tailwind
+LinkedIn:
+https://linkedin.com/in/anmol-dhimannn
 
----
+━━━━━━━━━━━━━━━━━━━━━━
 
-### 🔹 Orion AI Chatbot
-Next-gen personality-based AI chatbot with:
-- Memory System
-- Emotional Modes
-- LangChain
-- Streamlit UI
+ABOUT MY EXPERIENCE
 
----
+I build production-ready AI systems.
 
-### 🔹 NeuralDocs AI
-AI-powered RAG document assistant using:
-- LangChain
-- ChromaDB
-- Streamlit
-- Mistral AI
+I specialize in
 
----
+• Generative AI
+• LLM Applications
+• Multi-Agent Systems
+• LangChain
+• RAG
+• FastAPI
+• Streamlit
+• Python
+• Machine Learning
+• Deep Learning
 
-# 📊 GitHub Stats
+Internships
 
-<div align="center">
+✔ AI/ML Intern
+Global Next Consulting India Pvt Ltd
 
-![](https://github-readme-stats.vercel.app/api?username=anmoldhiman17&show_icons=true&theme=tokyonight&hide_border=true)
+✔ Python Developer Intern
+Skybrisk
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anmoldhiman17&theme=tokyonight&hide_border=true)
+✔ Full Stack Developer Intern
+Anonic Technologies
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldhiman17&layout=compact&theme=tokyonight&hide_border=true)
+Research Publication:
+Published ML Research Paper (IJPREMS)
 
-</div>
+━━━━━━━━━━━━━━━━━━━━━━
 
----
+FEATURED PROJECTS
 
-# 🌐 Connect With Me
+ResearchMind
 
-<div align="center">
+Production-grade Multi-Agent Research Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)](https://github.com/anmoldhiman17)
+FastAPI
+LangChain
+Mistral AI
+React
+TypeScript
+Tailwind
+Tavily
+Vercel
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
+-----------------------------
 
-</div>
+NeuralDocs AI
 
----
+RAG PDF Assistant
 
-<div align="center">
+LangChain
+ChromaDB
+Mistral
+Streamlit
 
-### ✨ "Building AI systems that feel futuristic."
+-----------------------------
 
-</div>
+Orion AI
+
+Multi-Personality AI Chatbot
+
+LangChain
+Mistral
+Memory
+Streamlit
+
+-----------------------------
+
+AI City Assistant
+
+Mistral
+Weather
+Maps
+LangChain
+
+-----------------------------
+
+MovieMind AI
+
+AI Movie Intelligence
+
+Prompt Engineering
+Mistral
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+TECH STACK
+
+Languages
+
+Python
+C++
+SQL
+JavaScript
+TypeScript
+
+AI
+
+LangChain
+OpenAI
+Mistral
+LLMs
+Prompt Engineering
+AI Agents
+Multi-Agent Systems
+RAG
+
+ML
+
+TensorFlow
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+Backend
+
+FastAPI
+Flask
+REST API
+
+Frontend
+
+React
+TypeScript
+Tailwind CSS
+
+Database
+
+MongoDB
+MySQL
+ChromaDB
+
+Deployment
+
+Docker
+Vercel
+HuggingFace
+GitHub Actions
+Google Cloud
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+NOW DESIGN THE README.
+
+I DO NOT WANT A NORMAL README.
+
+I WANT A MASTERPIECE.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+Rules
+
+Use beautiful markdown.
+
+Use centered layouts.
+
+Use premium typography.
+
+Use modern sections.
+
+Use smooth separators.
+
+Use SVG banners.
+
+Use animated typing effects.
+
+Use animated wave footer.
+
+Use profile views.
+
+Use GitHub trophies.
+
+Use GitHub streak.
+
+Use contribution snake.
+
+Use GitHub stats.
+
+Use top languages.
+
+Use activity graph.
+
+Use dynamic quote.
+
+Use Spotify section (optional).
+
+Use coding GIF.
+
+Use AI-themed illustrations.
+
+Use glowing buttons.
+
+Use futuristic badges.
+
+Use shields.io badges.
+
+Use capsule-render headers.
+
+Use Komarev profile counter.
+
+Use social buttons.
+
+Use contact buttons.
+
+Use beautiful icons.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+The README should contain these sections:
+
+1.
+Hero Banner
+
+Huge animated banner
+
+Name
+
+Animated typing effect
+
+Beautiful tagline
+
+Premium buttons
+
+Portfolio
+
+LinkedIn
+
+Email
+
+Resume
+
+Github
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+2.
+About Me
+
+Write an inspiring introduction.
+
+Not generic.
+
+Talk like a passionate AI Engineer building futuristic AI systems.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+3.
+What I'm Currently Building
+
+Use beautiful icons
+
+Current Focus
+
+Generative AI
+
+Agents
+
+LLMs
+
+FastAPI
+
+RAG
+
+Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+4.
+Tech Arsenal
+
+Beautiful categorized badges
+
+Modern layout
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+5.
+AI Expertise
+
+Create a visual table
+
+LLMs
+
+Prompt Engineering
+
+RAG
+
+Agents
+
+Deployment
+
+Fine-Tuning
+
+Embeddings
+
+Vector Databases
+
+Automation
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+6.
+Featured Projects
+
+Each project should look like a premium project card.
+
+Include
+
+Project Name
+
+Description
+
+Tech Stack
+
+Live Demo Button
+
+GitHub Button
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+7.
+GitHub Analytics
+
+Stats
+
+Languages
+
+Streak
+
+Contribution Graph
+
+Activity Graph
+
+Trophies
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+8.
+Achievements
+
+Research Publication
+
+Internships
+
+Hackathons
+
+AI Projects
+
+Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+9.
+Development Workflow
+
+Beautiful flow diagram
+
+Idea
+
+↓
+
+Research
+
+↓
+
+LLM
+
+↓
+
+Agent
+
+↓
+
+Deployment
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+10.
+Currently Learning
+
+MLOps
+
+Kubernetes
+
+AWS
+
+Advanced Agentic AI
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+11.
+Let's Connect
+
+Large modern buttons
+
+LinkedIn
+
+Portfolio
+
+Github
+
+Email
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+12.
+Footer
+
+Animated wave
+
+Quote
+
+"Building AI systems that solve real-world problems."
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+DESIGN REQUIREMENTS
+
+The README should look better than
+
+• Kyechan99
+• DenverCoder1
+• Rahuldkjain
+• anuraghazra
+• PiyushSuthar
+• AbhishekNaik96
+
+Use every modern GitHub README trick available.
+
+No boring markdown.
+
+No plain bullet lists.
+
+Everything should look premium.
+
+The code should be clean.
+
+Responsive.
+
+GitHub compatible.
+
+No broken images.
+
+No deprecated APIs.
+
+Use only actively maintained services.
+
+Return ONLY ONE COMPLETE README.md
+
+Do not explain anything.
+
+Return production-ready markdown.
